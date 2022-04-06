@@ -1,2 +1,2 @@
 #!/bib/bash
-echo "taill /etc/passwd"
+echo "tail /etc/passwd"
