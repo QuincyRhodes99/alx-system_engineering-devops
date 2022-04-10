@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf ./*  *~
+ls $PWD | grep ".*~" | xargs -L 1 rm -rf
