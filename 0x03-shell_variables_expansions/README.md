@@ -1,1 +1,1 @@
-0x03-shell_variables_expansions
+my first readme for shell variable expansions
